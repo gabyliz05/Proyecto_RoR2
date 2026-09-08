@@ -1,0 +1,18 @@
+current directory: /home/genesis/Escritorio/proyecto_RoR2/my_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/genesis/Escritorio/proyecto_RoR2/my_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260908-6295-8k2l6s sitelibdir\=./.gem.20260908-6295-8k2l6s clean
+
+current directory: /home/genesis/Escritorio/proyecto_RoR2/my_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260908-6295-8k2l6s sitelibdir\=./.gem.20260908-6295-8k2l6s
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/genesis/Escritorio/proyecto_RoR2/my_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260908-6295-8k2l6s sitelibdir\=./.gem.20260908-6295-8k2l6s install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20260908-6295-8k2l6s
+
+current directory: /home/genesis/Escritorio/proyecto_RoR2/my_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260908-6295-8k2l6s sitelibdir\=./.gem.20260908-6295-8k2l6s clean
