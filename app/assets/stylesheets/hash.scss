@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: #1565c0;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid #1565c0;
+  padding: 12px;
+  text-align: center;
+}
+
+th {
+  background-color: #1565c0;
+  color: white;
+}
+
+td {
+  background-color: #e3f2fd;
+  color: #0d47a1;
+}
+
+tr:hover td {
+  background-color: #bbdefb;
+}
